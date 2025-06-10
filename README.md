@@ -1,6 +1,6 @@
 # SEM_congress_2025
 
-![Logo](https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33)
+![Logo](https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33) <img src="https://example.com/mi-imagen.png" alt="Ejemplo" width="400" />
 
 **Authors:**
   + Alicia Garcia-Roldan 
