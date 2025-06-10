@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>SEM_congress_2025</h2>
+  <h1>SEM_congress_2025</h1>
 </div>
 
 # SEM_congress_2025
