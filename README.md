@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-  <h3> :microscope: :heart:... you can find the results in greater detail here! :heart: :microscope:</h3>
+  <h4> :microscope: :heart:... you can find the results in greater detail here! :heart: :microscope:</h4>
 </div>
 
