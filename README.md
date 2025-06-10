@@ -11,5 +11,7 @@
   + Shinichi Sunagawa
   + Antonio Ventosa
 
-:microscope: :heart: If you enjoyed the talk "_Arquea_ vs. _Bacteria_: Desafiando las fronteras de la osmorregulación" ... you can find the results in greater detail here! :heart: :microscope:
+:microscope: :heart: If you enjoyed the talk "_Arquea_ vs. _Bacteria_: Desafiando las fronteras de la osmorregulación" 
+
+... you can find the results in greater detail here! :heart: :microscope:
 
