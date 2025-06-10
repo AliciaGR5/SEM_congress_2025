@@ -14,7 +14,7 @@
   + Rafael R. de la Haba
   + Cristina Sánchez-Porro
   + Shinichi Sunagawa
-  + Antonio Ventosa <br>
+  + Antonio Ventosa <br><br>
 
 
 <div align="center">
