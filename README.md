@@ -25,5 +25,5 @@
 </div>
 
 <div align="center">
-  <h4> :microscope: :heart:... you can find the results in greater detail [here](https://github.com/AliciaGR5/SEM_congress_2025/blob/main/Arch_vs_bact_SEM_poster.pdf)! :heart: :microscope:</h4>
+  <h4> :microscope: :heart:... you can find the results in greater detail <a href="https://github.com/AliciaGR5/SEM_congress_2025/blob/main/Arch_vs_bact_SEM_poster.pdf">here!</a> :heart: :microscope:</h4>
 </div>
