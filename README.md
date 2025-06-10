@@ -1,5 +1,8 @@
-# SEM_congress_2025
+<div align="center">
+  <h2>SEM_congress_2025</h2>
+</div>
 
+# SEM_congress_2025
 <br>
 
 <div align="center">
