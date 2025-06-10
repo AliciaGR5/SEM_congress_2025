@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <h3>If you enjoyed the talk "_Arquea_ vs. _Bacteria_: Desafiando las fronteras de la osmorregulación" </h3>
+  <>If you enjoyed the talk "_Arquea_ vs. _Bacteria_: Desafiando las fronteras de la osmorregulación" </>
 </div>
 
 <div align="center">
