@@ -1,7 +1,7 @@
 # SEM_congress_2025
 
 <div align="center">
-  >![Logo](https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33) 
+  <img src="https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33" width="400" alt="Logo del proyecto">
 </div>
 
 ![Logo](https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33) 
