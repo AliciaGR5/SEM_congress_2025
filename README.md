@@ -1,5 +1,6 @@
 # SEM_congress_2025
 
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33" width="400">
