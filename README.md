@@ -2,7 +2,6 @@
   <h1>SEM_congress_2025</h1>
 </div>
 
-# SEM_congress_2025
 <br>
 
 <div align="center">
