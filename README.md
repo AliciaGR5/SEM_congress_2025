@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <h4>If you enjoyed the talk <em>Arquea</em> vs. <em>Bacteria</em>: Desafiando las fronteras de la osmorregulación </h4>
+  <h4>If you enjoyed the talk &ldquo;<em>Arquea</em> vs. <em>Bacteria</em>: Desafiando las fronteras de la osmorregulación&rdquo;</h4>
 </div>
 
 <div align="center">
