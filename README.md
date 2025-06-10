@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33" width="400">
 </div>
 
-<br><br>
+<br>
 
 **Authors:**
   + Alicia Garcia-Roldan 
