@@ -1,8 +1,10 @@
 # SEM_congress_2025
 
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33" width="400" alt="Logo del proyecto">
+  <img src="https://github.com/user-attachments/assets/884d537b-bedf-4c5d-9357-0bf45a69ca33" width="400">
 </div>
+
 
 **Authors:**
   + Alicia Garcia-Roldan 
